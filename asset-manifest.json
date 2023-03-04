@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bornpinktour-ghpages/static/css/main.cf0fd400.css",
-    "main.js": "/bornpinktour-ghpages/static/js/main.c136f45e.js",
+    "main.css": "/bornpinktour-ghpages/static/css/main.3a695507.css",
+    "main.js": "/bornpinktour-ghpages/static/js/main.7ed3f949.js",
     "static/media/LALISA.mp4": "/bornpinktour-ghpages/static/media/LALISA.771b5ce9e9c3691784f3.mp4",
     "static/media/jisoosolo.mp4": "/bornpinktour-ghpages/static/media/jisoosolo.fc592a99319f6c0c886c.mp4",
     "static/media/rosegone.mp4": "/bornpinktour-ghpages/static/media/rosegone.02fbf5b3e43cf4a2d543.mp4",
@@ -16,11 +16,11 @@
     "static/media/LALISAIcon.jpg": "/bornpinktour-ghpages/static/media/LALISAIcon.02a7293968ab75b9f7dd.jpg",
     "static/media/JISOOIcon.jpg": "/bornpinktour-ghpages/static/media/JISOOIcon.596bc3f6c1b7cc20a5e9.jpg",
     "index.html": "/bornpinktour-ghpages/index.html",
-    "main.cf0fd400.css.map": "/bornpinktour-ghpages/static/css/main.cf0fd400.css.map",
-    "main.c136f45e.js.map": "/bornpinktour-ghpages/static/js/main.c136f45e.js.map"
+    "main.3a695507.css.map": "/bornpinktour-ghpages/static/css/main.3a695507.css.map",
+    "main.7ed3f949.js.map": "/bornpinktour-ghpages/static/js/main.7ed3f949.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf0fd400.css",
-    "static/js/main.c136f45e.js"
+    "static/css/main.3a695507.css",
+    "static/js/main.7ed3f949.js"
   ]
 }
