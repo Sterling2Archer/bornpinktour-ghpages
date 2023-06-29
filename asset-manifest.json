@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/bornpinktour-ghpages/static/css/main.7a99be43.css",
+    "main.css": "/bornpinktour-ghpages/static/css/main.8da96905.css",
     "main.js": "/bornpinktour-ghpages/static/js/main.6f38ca98.js",
     "static/media/LALISA.mp4": "/bornpinktour-ghpages/static/media/LALISA.771b5ce9e9c3691784f3.mp4",
     "static/media/shutdown.mp4": "/bornpinktour-ghpages/static/media/shutdown.c5d9c01c3ccc48bdb7a0.mp4",
@@ -17,11 +17,11 @@
     "static/media/chella2.webp": "/bornpinktour-ghpages/static/media/chella2.8c163bbb4e60979377ec.webp",
     "static/media/ticketmaster.png": "/bornpinktour-ghpages/static/media/ticketmaster.971e61515f51f999cf3a.png",
     "index.html": "/bornpinktour-ghpages/index.html",
-    "main.7a99be43.css.map": "/bornpinktour-ghpages/static/css/main.7a99be43.css.map",
+    "main.8da96905.css.map": "/bornpinktour-ghpages/static/css/main.8da96905.css.map",
     "main.6f38ca98.js.map": "/bornpinktour-ghpages/static/js/main.6f38ca98.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a99be43.css",
+    "static/css/main.8da96905.css",
     "static/js/main.6f38ca98.js"
   ]
 }
