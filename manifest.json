@@ -1,19 +1,19 @@
 {
   "short_name": "BLACKPINK App",
-  "name": "BLACKPINK ",
+  "name": "BORN PINK TOUR",
   "icons": [
     {
-      "src": "910bf8bfcbcb9aaaca6ff7aefb5fea7b 2.jpg",
+      "src": "1100777.jpeg",
       "sizes": "64x64 32x32 24x24 16x16",
       "type": "image/x-icon"
     },
     {
-      "src": "910bf8bfcbcb9aaaca6ff7aefb5fea7b 2.jpg",
+      "src": "1100777.jpeg",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "910bf8bfcbcb9aaaca6ff7aefb5fea7b 2.jpg",
+      "src": "1100777.jpeg",
       "type": "image/png",
       "sizes": "512x512"
     }

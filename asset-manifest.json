@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/bornpinktour-ghpages/static/css/main.3a695507.css",
-    "main.js": "/bornpinktour-ghpages/static/js/main.7ed3f949.js",
+    "main.css": "/bornpinktour-ghpages/static/css/main.7a99be43.css",
+    "main.js": "/bornpinktour-ghpages/static/js/main.6f38ca98.js",
     "static/media/LALISA.mp4": "/bornpinktour-ghpages/static/media/LALISA.771b5ce9e9c3691784f3.mp4",
-    "static/media/jisoosolo.mp4": "/bornpinktour-ghpages/static/media/jisoosolo.fc592a99319f6c0c886c.mp4",
-    "static/media/rosegone.mp4": "/bornpinktour-ghpages/static/media/rosegone.02fbf5b3e43cf4a2d543.mp4",
     "static/media/shutdown.mp4": "/bornpinktour-ghpages/static/media/shutdown.c5d9c01c3ccc48bdb7a0.mp4",
+    "static/media/ontheground.mp4": "/bornpinktour-ghpages/static/media/ontheground.e0cbe0cb8093bcc6cf8d.mp4",
+    "static/media/jisoosolo.mp4": "/bornpinktour-ghpages/static/media/jisoosolo.a43078460967b91a18d4.mp4",
     "static/media/jenniesolo.mp4": "/bornpinktour-ghpages/static/media/jenniesolo.ec2fbdbf99b4d1d375db.mp4",
-    "static/media/IYAIntro.mp4": "/bornpinktour-ghpages/static/media/IYAIntro.d745d587525f06122f51.mp4",
+    "static/media/newtourintro.mp4": "/bornpinktour-ghpages/static/media/newtourintro.519f04837f767d9af900.mp4",
+    "static/media/membspic.jpeg": "/bornpinktour-ghpages/static/media/membspic.53bbf5b8b9bdedb264a6.jpeg",
     "static/media/221016-BLACKPINK-World-Tour-BORN-PINK-at-Seoul-documents-1.jpeg": "/bornpinktour-ghpages/static/media/221016-BLACKPINK-World-Tour-BORN-PINK-at-Seoul-documents-1.f4f5124670fe664f642c.jpeg",
-    "static/media/Blackpink-Asia.jpeg": "/bornpinktour-ghpages/static/media/Blackpink-Asia.18b7a784f129ce713560.jpeg",
-    "static/media/pinkvenom2.jpg": "/bornpinktour-ghpages/static/media/pinkvenom2.9cb6bdd7188b3691e294.jpg",
-    "static/media/JENNIEIcon.png": "/bornpinktour-ghpages/static/media/JENNIEIcon.18ce1c73cbde414f31e8.png",
-    "static/media/CHAEYOUNGIcon.jpg": "/bornpinktour-ghpages/static/media/CHAEYOUNGIcon.53c511e5ebdbcc7e682b.jpg",
-    "static/media/LALISAIcon.jpg": "/bornpinktour-ghpages/static/media/LALISAIcon.02a7293968ab75b9f7dd.jpg",
-    "static/media/JISOOIcon.jpg": "/bornpinktour-ghpages/static/media/JISOOIcon.596bc3f6c1b7cc20a5e9.jpg",
+    "static/media/blackpink_kill_this_love_japanese_concept_lisa2.jpeg": "/bornpinktour-ghpages/static/media/blackpink_kill_this_love_japanese_concept_lisa2.250a62a3b844774da8c5.jpeg",
+    "static/media/blackpink_kill_this_love_japanese_concept_jennie2.jpeg": "/bornpinktour-ghpages/static/media/blackpink_kill_this_love_japanese_concept_jennie2.875ef209a284da671663.jpeg",
+    "static/media/blackpink_kill_this_love_japanese_concept_rose2.jpeg": "/bornpinktour-ghpages/static/media/blackpink_kill_this_love_japanese_concept_rose2.15574917112fe5fa2da8.jpeg",
+    "static/media/blackpink_kill_this_love_japanese_concept_jisoo2.jpeg": "/bornpinktour-ghpages/static/media/blackpink_kill_this_love_japanese_concept_jisoo2.85136def24b7e88efb8e.jpeg",
+    "static/media/chella2.webp": "/bornpinktour-ghpages/static/media/chella2.8c163bbb4e60979377ec.webp",
+    "static/media/ticketmaster.png": "/bornpinktour-ghpages/static/media/ticketmaster.971e61515f51f999cf3a.png",
     "index.html": "/bornpinktour-ghpages/index.html",
-    "main.3a695507.css.map": "/bornpinktour-ghpages/static/css/main.3a695507.css.map",
-    "main.7ed3f949.js.map": "/bornpinktour-ghpages/static/js/main.7ed3f949.js.map"
+    "main.7a99be43.css.map": "/bornpinktour-ghpages/static/css/main.7a99be43.css.map",
+    "main.6f38ca98.js.map": "/bornpinktour-ghpages/static/js/main.6f38ca98.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a695507.css",
-    "static/js/main.7ed3f949.js"
+    "static/css/main.7a99be43.css",
+    "static/js/main.6f38ca98.js"
   ]
 }
